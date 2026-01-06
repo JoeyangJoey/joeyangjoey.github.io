@@ -1,10 +1,10 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
+layout: awards
+permalink: /awards/
+title: Awards
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
