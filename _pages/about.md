@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Building a Future Where Engineering and Music Resonate in Harmony.
 
 profile:
   align: right
