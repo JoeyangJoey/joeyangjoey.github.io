@@ -4,7 +4,7 @@ title: Signaling Equipment Monitoring
 description: A solution to monitor the Signaling Equipment based on machine vision
 img: assets/img/SigMonitor.png
 importance: 2
-category: work
+category: Machine Vision
 giscus_comments: true
 ---
 

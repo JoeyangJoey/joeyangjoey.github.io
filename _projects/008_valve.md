@@ -4,7 +4,7 @@ title: Avionic Flow Valve Tester
 description: A virtual instrument system to conduct the flow valve "End of Production Line(EOL)" function test during mass production. 🎉
 img: assets/img/valve.png
 importance: 4
-category: fun
+category: Signal Processing
 ---
 
 Every project has a beautiful feature showcase page.
