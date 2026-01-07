@@ -430,12 +430,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-mvi-vision-framework-v1-1",
-          title: 'mVi Vision Framework V1.1',
-          description: "An open source LabVIEW vision multi-task application framework developed by mVi Academy",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/001_visionFW/";
-            },},{id: "projects-pharmaceutical-defect-detection",
+          section: "News",},{id: "projects-pharmaceutical-defect-detection",
           title: 'Pharmaceutical Defect Detection',
           description: "A Machine vision based Solution to Detect Pharmaceutical Defects",
           section: "Projects",handler: () => {
@@ -460,11 +455,6 @@ ninja.data = [{
           description: "A Solution to control fruit quality based on machine vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/006_Fruit/";
-            },},{id: "projects-mvi-multiloop-framework-v1-2",
-          title: 'mVi MultiLoop Framework V1.2',
-          description: "An open source LabVIEW multi-task application framework developed by mVi Academy.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/007_viFW/";
             },},{id: "projects-sensor-ic-in-circuit-tester",
           title: 'Sensor IC In-Circuit Tester',
           description: "A virtual Instrument system to conduct semiconductor senor &quot;End of Production Line(EOL)&quot; functional test during mass production 🎉",
