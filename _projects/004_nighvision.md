@@ -4,7 +4,7 @@ title: Night Vision Device Inspection
 description: A Solution to inspect the quality of night vision device.
 img: assets/img/night-vision.png
 importance: 2
-category: Machine Vision
+category: work
 # giscus_comments: true
 ---
 

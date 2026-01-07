@@ -4,7 +4,7 @@ title: Pharmaceutical Defect Detection
 description: A Machine vision based Solution to Detect Pharmaceutical Defects
 img: assets/img/medical.png
 importance: 1
-category: Machine Vision
+category: work
 related_publications: true
 ---
 

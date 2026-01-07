@@ -4,7 +4,7 @@ title: Fruit Quality Inspection
 description: A Solution to control fruit quality based on machine vision
 img: assets/img/Orange.png
 importance: 1
-category: Machine Vision
+category: work
 related_publications: true
 ---
 
